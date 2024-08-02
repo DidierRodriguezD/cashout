@@ -1,0 +1,1 @@
+podman run --detach --name cashout -p 27017:27017 -v /Users/didrodri/dev/estudio/data:/data/db docker.io/mongodb/mongodb-community-server:latest
